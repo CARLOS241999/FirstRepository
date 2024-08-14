@@ -1,2 +1,1 @@
-# FirstRepository
-Este es un repositorio de prueba del módulo 2
+PRUEBA DE COMO CREAR UN REPOSITORIO Y CLONARLO DESDE LA PC
